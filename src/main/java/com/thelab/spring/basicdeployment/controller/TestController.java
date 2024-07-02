@@ -1,4 +1,4 @@
-package com.thelab.spring.basicdeployment.Controller;
+package com.thelab.spring.basicdeployment.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;

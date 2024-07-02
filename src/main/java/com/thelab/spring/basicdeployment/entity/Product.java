@@ -1,4 +1,4 @@
-package com.thelab.spring.basicdeployment.Entity;
+package com.thelab.spring.basicdeployment.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
